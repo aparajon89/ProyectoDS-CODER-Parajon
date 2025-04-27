@@ -18,7 +18,7 @@ El trabajo incluye:
 - pandas
 - numpy
 - matplotlib
-- seaborn
+- Seaborn
 
 (Se recomienda ejecutar el notebook en Google Colab o Jupyter Notebook.)
 
